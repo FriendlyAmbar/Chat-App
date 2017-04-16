@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "423535339389",
+    "firebase_url": "https://ambars-chatapp.firebaseio.com",
+    "project_id": "ambars-chatapp",
+    "storage_bucket": "ambars-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423535339389:android:01f5c6bd2994d6f5",
+        "android_client_info": {
+          "package_name": "com.workshop.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423535339389-gud9lg632d51ar22as3diht568h5f52l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTzEdE0Wxywc_hDmABsHWUZr-1W3TkHo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
